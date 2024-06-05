@@ -1,0 +1,38 @@
+/******CSS*******/
+body {
+  margin: 0;
+  font-family:"Trebuchet MS";
+  background-color: yellowgreen;
+  text-align: center;
+}
+
+.btnBig {
+  padding: 10px;
+  min-width: 40px;
+  background-color: lightgray;
+  font-family: Impact;
+  margin-left: 20px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.btnSmall {
+  padding: 5px;
+  background-color: lightseagreen;
+  color: white;
+  font-size: 30px;
+  font-family: 'Trebuchet MS';
+}
+
+.btnSmall:hover {
+  background-color: lightsalmon;
+  cursor: pointer;
+}
+
+.inputArea {
+  width: 60px;
+  padding: 10px;
+  border-radius: 2px;
+  background-color: lightblue;
+  font-family: 'Trebuchet MS';
+}
